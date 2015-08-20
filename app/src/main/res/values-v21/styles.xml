@@ -1,0 +1,11 @@
+<resources>
+
+
+
+    <style name="Theme.DesignDemo" parent="Base.Theme.DesignDemo">
+
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+
+        <item name="android:navigationBarColor">@color/colorPrimary</item>
+    </style>
+</resources>
